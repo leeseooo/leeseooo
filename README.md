@@ -18,6 +18,7 @@
   
   ### Projects
   2023
+  - [WOK-AT(워캣)](https://github.com/WOK-AT/WOKAT_CLIENT) : 최적의 업무 공간 추천 서비스
   - [Own-Size(온사이즈)](https://github.com/OWN-SIZE/onsize-extension) : 쉽고 똑똑한 사이즈 추천 크롬 익스텐션 & 웹 서비스
 
   2022
