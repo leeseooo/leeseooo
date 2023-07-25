@@ -27,6 +27,4 @@
    - [밈과사전(MEME-DICTIONARY)](https://github.com/MEME-DICTIONARY/MEME-DICTIONARY) : 최신 유행 밈 검색 및 등록 서비스
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseooo&show_icons=true&theme=vue)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fleeseooo&count_bg=%2326B7FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
